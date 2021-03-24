@@ -147,16 +147,16 @@ let resumeData = {
       imgurl: "",
     },
   ],
-  testimonials:[
-      {
-          description: "",
-          name: ""
-      },
-      {
-        description: "",
-        name: ""
+  testimonials: [
+    {
+      description: "",
+      name: "",
     },
-  ]
+    {
+      description: "",
+      name: "",
+    },
+  ],
 };
 
-export default resumeData
+export default resumeData;
